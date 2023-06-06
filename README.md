@@ -1,4 +1,4 @@
-# Python repo template
+# Python module repo template
 [![GitHub forks](https://img.shields.io/github/forks/Lerking/python-repo-template.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Lerking/python-repo-template/forks/)
 [![GitHub stars](https://img.shields.io/github/stars/Lerking/python-repo-template.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Lerking/python-repo-template/stargazers/)
 [![GitHub watchers](https://img.shields.io/github/watchers/Lerking/python-repo-template.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Lerking/python-repo-template/watchers/)
